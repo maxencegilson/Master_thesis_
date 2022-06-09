@@ -8,7 +8,7 @@ Unsup_Feature_Selection.py : contains all code for the five different feature se
 
 correlation_map.py : allows to plot the two different correlation maps using the seaborn library.
 
-database.py : uploads the database into the correct format.
+database.py : loads the database into the correct format.
 
 main.py : allows to compute the different methods and plot the results. Everything is explicitly explained in the comments of the file.
 
