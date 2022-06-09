@@ -15,8 +15,8 @@ import pandas as pd
 """
 Extracts the Excel file
 """
-
-file_path = '/Users/maxence/Desktop/PycharmProjects/TFE/Data/Data_final.xlsx'
+# The directory must be modified depending on the user
+file_path = '/Users/TFE/Data/Data_final.xlsx'
 sheet_name = 1
 header = 0
 index_col = None
